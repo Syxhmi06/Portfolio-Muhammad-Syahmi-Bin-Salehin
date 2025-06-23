@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;}
+    .center-image {
+        display: block;
+        margin: 0 auto;
+        width: 120.5px;
+        height: 155px;
+    }
+        
+    .content-box {
+        background-color: rgba(173, 216, 230, 0.9);
+        padding: 30px;
+        border-radius: 10px;
+        display: inline-block;
+        color: black;
+    }
